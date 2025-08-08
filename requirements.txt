@@ -1,0 +1,13 @@
+# Core Requirements
+scapy==2.4.5
+matplotlib==3.5.2
+numpy==1.22.3  # Required by matplotlib
+
+# GUI Requirements
+tkinter==0.1.0  # Usually comes with Python
+python-dateutil==2.8.2  # Required by matplotlib
+pyparsing==3.0.7  # Required by matplotlib
+pillow==9.1.0  # Required for image support
+
+# Windows Specific (if needed)
+pywin32==303  # For Windows-specific functionality

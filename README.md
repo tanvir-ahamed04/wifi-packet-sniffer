@@ -141,10 +141,10 @@ For educational use in network protocol analysis
 
 This README includes:
 
-1. **Visual Badges** - For quick identification of tech stack
-2. **Table of Contents** - Easy navigation
-3. **Feature Tables** - Clear presentation of capabilities
-4. **Code Blocks** - For commands and configurations
-5. **Contributing Guide** - Standard GitHub workflow
-6. **Responsive Design** - Properly formats on all devices
-7. **Legal Notice** - Promotes ethical usage
+1. Visual Badges - For quick identification of tech stack
+2. Table of Contents - Easy navigation
+3. Feature Tables - Clear presentation of capabilities
+4. Code Blocks - For commands and configurations
+5. Contributing Guide - Standard GitHub workflow
+6. Responsive Design - Properly formats on all devices
+7. Legal Notice - Promotes ethical usage

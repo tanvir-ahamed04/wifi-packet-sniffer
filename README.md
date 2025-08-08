@@ -1,4 +1,3 @@
-```markdown
 # Wi-Fi Packet Sniffer
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
